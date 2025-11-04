@@ -268,7 +268,7 @@ function Home() {
                       <strong style={{ color: "#f15d4c", marginBottom: "0" }}>
                         $46
                       </strong>
-                      <a className="btn bids-btn" href="./item-details.html">
+                      <a className="btn bids-btn" href="./item-detail">
                         9Bid
                       </a>
                     </p>
@@ -294,7 +294,7 @@ function Home() {
                       <strong style={{ color: "#f15d4c", marginBottom: "0" }}>
                         $46
                       </strong>
-                      <a className="btn bids-btn" href="./item-details.html">
+                      <a className="btn bids-btn" href="./item-details">
                         9Bid
                       </a>
                     </p>
@@ -320,7 +320,7 @@ function Home() {
                       <strong style={{ color: "#f15d4c", marginBottom: "0" }}>
                         $46
                       </strong>
-                      <a className="btn bids-btn" href="./item-details.html">
+                      <a className="btn bids-btn" href="./item-details">
                         9Bid
                       </a>
                     </p>
@@ -346,7 +346,7 @@ function Home() {
                       <strong style={{ color: "#f15d4c", marginBottom: "0" }}>
                         $46
                       </strong>
-                      <a className="btn bids-btn" href="./item-details.html">
+                      <a className="btn bids-btn" href="./item-details">
                         9Bid
                       </a>
                     </p>
@@ -372,7 +372,7 @@ function Home() {
                       <strong style={{ color: "#f15d4c", marginBottom: "0" }}>
                         $46
                       </strong>
-                      <a className="btn bids-btn" href="./item-details.html">
+                      <a className="btn bids-btn" href="./item-details">
                         9Bid
                       </a>
                     </p>
@@ -398,7 +398,7 @@ function Home() {
                       <strong style={{ color: "#f15d4c", marginBottom: "0" }}>
                         $46
                       </strong>
-                      <a className="btn bids-btn" href="./item-details.html">
+                      <a className="btn bids-btn" href="./item-details">
                         9Bid
                       </a>
                     </p>
@@ -428,7 +428,7 @@ function Home() {
                   <h5 className="cards-headings">
                     <a
                       className="card-heading-links"
-                      href="./item-details.html"
+                      href="./item-details"
                     >
                       Da Vinci decor
                     </a>
@@ -441,7 +441,7 @@ function Home() {
                       Starting Bid{" "}
                       <strong style={{ color: "#f15d4c" }}>$46</strong>
                     </p>
-                    <a className="btn bids-btn" href="./item-details.html">
+                    <a className="btn bids-btn" href="./item-details">
                       <img
                         src="./assets/images/hammer.svg"
                         className="btn-hammer"
@@ -538,7 +538,7 @@ function Home() {
                             </p>
                             <a
                               className="btn bids-btn"
-                              href="./item-details.html"
+                              href="./item-details"
                             >
                               <img
                                 src="./assets/images/hammer.svg"
@@ -585,7 +585,7 @@ function Home() {
                             </p>
                             <a
                               className="btn bids-btn"
-                              href="./item-details.html"
+                              href="./item-details"
                             >
                               <img
                                 src="./assets/images/hammer.svg"
@@ -632,7 +632,7 @@ function Home() {
                             </p>
                             <a
                               className="btn bids-btn"
-                              href="./item-details.html"
+                              href="./item-details"
                             >
                               <img
                                 src="./assets/images/hammer.svg"
@@ -679,7 +679,7 @@ function Home() {
                             </p>
                             <a
                               className="btn bids-btn"
-                              href="./item-details.html"
+                              href="./item-details"
                             >
                               <img
                                 src="./assets/images/hammer.svg"
@@ -726,7 +726,7 @@ function Home() {
                             </p>
                             <a
                               className="btn bids-btn"
-                              href="./item-details.html"
+                              href="./item-details"
                             >
                               <img
                                 src="./assets/images/hammer.svg"
